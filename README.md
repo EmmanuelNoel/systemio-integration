@@ -70,7 +70,7 @@ Le projet implémente plusieurs mesures de sécurité :
 
 ## Auteur
 
-- [Votre nom]
+- Emmanuel SOUWOUIN
 
 ## Licence
 
